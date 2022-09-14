@@ -1,0 +1,16 @@
+{
+  "name": "dailymorning",
+  "version": "1.0.0",
+  "description": "早安问候",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "居里栈栈",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "moment": "^2.29.4",
+    "node-schedule": "^2.0.0"
+  }
+}
